@@ -2,13 +2,11 @@
 
 Sistema Integrado de Planejamento de Dimensionamento de Pessoal
 
----
 
 ## 1. Introdução
 
 O sistema SISPES tem como finalidade apoiar o planejamento da alocação de profissionais nas unidades do Ministério da Saúde. Ele será um sistema online, acessível por diferentes secretarias, permitindo o preenchimento padronizado, a consolidação e a análise de dados de dimensionamento de pessoal.
 
----
 
 ## 2. Arquitetura Geral
 
@@ -30,7 +28,6 @@ O sistema será desenvolvido em uma arquitetura web moderna, baseada em microsse
 - **Gerenciador de Usuários**: controle de permissões e segurança.
 - **Módulo de Importação/Exportação**: integração com planilhas e sistemas externos.
 
----
 
 ## Tecnologias Envolvidas
 
@@ -43,7 +40,6 @@ O sistema será desenvolvido em uma arquitetura web moderna, baseada em microsse
 | Segurança        | JWT + HTTPS          |
 | Infraestrutura   | Docker + AWS         |
 
----
 
 ## Observações
 
