@@ -2,11 +2,11 @@
 
 Este repositório contém a documentação técnica do sistema **SISPES**, desenvolvido como parte do trabalho acadêmico da disciplina de Documentação de Software (Tecnólogo em Análise e Desenvolvimento de Sistemas).
 
-## 📁 Arquivos
+## Arquivos:
 
 - [`documentacao-sispes.md`](documentacao-sispes.md): Documento técnico com introdução, arquitetura do sistema e tecnologias utilizadas.
 
-## 📌 Tecnologias
+## Tecnologias:
 
 - React.js (Frontend)
 - Node.js + Express (Backend)
