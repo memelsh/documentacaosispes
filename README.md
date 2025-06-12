@@ -14,7 +14,6 @@ Este repositório contém a documentação técnica do sistema **SISPES**, desen
 - Docker (Infraestrutura)
 - JWT + HTTPS (Segurança)
 
----
 
 > Criado para fins acadêmicos.  
-> Autor: [Seu Nome Fictício] — 2025
+> Autor: Melissa Brito — 2025
