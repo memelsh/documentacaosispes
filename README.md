@@ -1,19 +1,25 @@
-# SISPES — Sistema Integrado de Planejamento de Dimensionamento de Pessoal
+# Projeto SISPES — Documentação Técnica
 
-Este repositório contém a documentação técnica do sistema **SISPES**, desenvolvido como parte do trabalho acadêmico da disciplina de Documentação de Software (Tecnólogo em Análise e Desenvolvimento de Sistemas).
-
-## Arquivos:
-
-- [`documentacao-sispes.md`](documentacao-sispes.md): Documento técnico com introdução, arquitetura do sistema e tecnologias utilizadas.
-
-## Tecnologias:
-
-- React.js (Frontend)
-- Node.js + Express (Backend)
-- PostgreSQL (Banco de Dados)
-- Docker (Infraestrutura)
-- JWT + HTTPS (Segurança)
+Repositório contendo os artefatos de documentação para o **Sistema Integrado de Planejamento de Dimensionamento de Pessoal (SISPES)**, desenvolvido como parte do trabalho acadêmico de **Documentação de Software**.
 
 
-> Criado para fins acadêmicos.  
-> Autor: Melissa Brito — 2025
+## Índice de Documentos
+
+- [Documento de Visão](documentacao-sispes.md)
+- [Documento de Arquitetura](arquitetura.md)
+
+
+## Tecnologias Utilizadas
+
+- **Frontend**: React.js
+- **Backend**: Node.js + Express
+- **Banco de Dados**: PostgreSQL
+- **Segurança**: JWT + HTTPS
+- **Infraestrutura**: Docker + AWS
+
+
+## Observações
+
+Curso: Análise e Desenvolvimento de Sistemas.
+
+Autor: Melissa A. B. Souza — 2025
